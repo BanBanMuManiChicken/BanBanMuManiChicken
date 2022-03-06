@@ -16,11 +16,11 @@ I enjoy programming while having a cup of coffee. ☕️<br>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Homebrew-yellow?style=flat-square&logo=Homebrew&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Homebrew-white?style=flat-square&logo=Homebrew&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
