@@ -30,7 +30,7 @@ I enjoy programming while having a cup of coffee. ☕️<br>
 ## GitHub Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ViVi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BanBanMuManiChichken&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
@@ -40,7 +40,7 @@ I enjoy programming while having a cup of coffee. ☕️<br>
 
 <br/> 
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FViVi&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBanBanMuManiChichken&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <hr />
 <h4 align="center">Feel free to contact me! 🤙 </h4> 
