@@ -30,11 +30,11 @@ I enjoy programming while having a cup of coffee. ☕️<br>
 ## GitHub Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChanghyeonYoon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ViVi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanghyeonYoon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViVi&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -47,7 +47,7 @@ I enjoy programming while having a cup of coffee. ☕️<br>
 <p align="center">
     <a href="mailto:junyeonghwang54@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335"/></a>&nbsp
     <a href="https://www.facebook.com/profile.php?id=100024346703317"><img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=Facebook&logoColor=1877F2"/></a>&nbsp
-   <a href="https://www.instagram.com/junyeonghacker/?hl=ko"><img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=Facebook&logoColor=1877F2"/></a>&nbsp 
+   <a href="https://www.instagram.com/junyeonghacker/?hl=ko"><img src="https://img.shields.io/badge/Instargram-DDEA7B?style=social&logo=Instargram&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
   
